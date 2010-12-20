@@ -1,0 +1,11 @@
+English Verb Test Generator 1.0
+
+by PicciMario (mario.piccinelli@gmail.com)
+
+Semplice script python per generare in modo casuale e automatico testi 
+(in formato PDF, da stampare) di verifiche di inglese sui verbi (regolari 
+e irregolari) per scuole medie/superiori italiane.
+
+Requisiti di sistema:
+- Python
+- ReportLab PDF Generator per Python (http://www.reportlab.org/oss/rl-toolkit/download/)
